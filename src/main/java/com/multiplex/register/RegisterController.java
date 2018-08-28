@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="http://18.136.65.50:9010")
 @RestController
 public class RegisterController {
 	
